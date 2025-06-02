@@ -7,5 +7,5 @@ Standardized text values for consistency (e.g., regions, product categories).
 Converted date columns to a uniform format (dd-mm-yyyy).
 Validated data types (e.g., numbers as numeric, dates as date type).
 Files Included
-
-
+raw dataset (raw dataset.csv)
+cleaned datset( )
